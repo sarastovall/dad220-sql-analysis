@@ -69,17 +69,6 @@ The `Customers` and `Orders` tables were rebuilt from original coursework CSV fi
 
 2\. Which product descriptions had the highest return percentages?
 
-## Key Queries Included
-
-- Returns by state
-- Return percentage by product description
-
-## Tools Used
-
-- DBeaver
-- SQLite
-- CSV data import
-- SQL
 
 
 \## Notes
