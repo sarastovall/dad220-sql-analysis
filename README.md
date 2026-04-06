@@ -72,14 +72,14 @@ The `Customers` and `Orders` tables were rebuilt from original coursework CSV fi
 
 
 
-\##Key Queries Included
+\## Key Queries Included
 
 - Returns by state
 - Return percentage by product description
 
 
 
-\##Tools Used
+\## Tools Used
 
 - DBeaver
 - SQLite
